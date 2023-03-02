@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  },
+  "name": "11ty-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
